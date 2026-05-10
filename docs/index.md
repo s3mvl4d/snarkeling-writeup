@@ -3,8 +3,6 @@ layout: default
 title: SNARKeling Treasure Hunt - Write-up
 ---
 
-# SNARKeling Treasure Hunt —  Write-up
-
 ## Intro
 First, I’d like to thank Cyfrin for accepting my codebase for this First Flight contest and for giving me the opportunity to act as a judge. It was a great experience reviewing submissions from participants with different perspectives and approaches, and it provided a valuable look into how developers reason about security in a composable system involving smart contracts, circuits, and generated verifiers.
 
